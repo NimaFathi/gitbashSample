@@ -1,3 +1,4 @@
 hi,
 its my new repo and its all about working with git bash or terminal.
 author @Niwgoat.
+thanks.
